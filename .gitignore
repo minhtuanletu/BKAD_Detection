@@ -1,0 +1,6 @@
+.myenv
+data*
+runs
+public test
+train*
+*.pt
